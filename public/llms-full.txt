@@ -2,13 +2,13 @@
 
 A business focused on pacifiers and baby products, catering to parents of infants and young children. The brand likely revolves around comfort, safety, and care for babies.
 
-Source: https://babynodshop-55554606.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו צעצועי תינוקות מנחמים ובטוחים — Babynodshop
 
-URL: https://babynodshop-55554606.zappy5.app
+URL: https://example.com
 Description: העניקו לקטנטנים שלכם עולם של נוחות ושמחה עם צעצועי תינוקות איכותיים מ-Babynodshop. מוצרים מרגיעים, בטוחים ומעוצבים באהבה כדי להרגיע ולשעשע. היכנסו עכשיו ותנו לתינוק שלכם את הטוב ביותר!
 
 גלו צעצועי תינוקות מנחמים ובטוחים — Babynodshop
@@ -466,7 +466,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## הסוד לבחירה חכמה בצעצועי תינוקות — Babynodshop
 
-URL: https://babynodshop-55554606.zappy5.app/why-choose-us
+URL: https://example.com/why-choose-us
 Description: למה הורים בוחרים בנו? כי אנחנו מבינים את הצורך האמיתי בבטיחות, נוחות וצעצועי תינוקות שעושים את ההבדל. גלו את המחויבות שלנו לאיכות ולשקט הנפשי שלכם. בואו להכיר את ההבדל!
 
 הסוד לבחירה חכמה בצעצועי תינוקות — Babynodshop
@@ -982,7 +982,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## הכירו את הלב מאחורי צעצועי התינוקות — Babynodshop
 
-URL: https://babynodshop-55554606.zappy5.app/about
+URL: https://example.com/about
 Description: סיפור של אהבה, נוחות ומסירות לעולם התינוקות. ב-Babynodshop אנו יוצרים צעצועי תינוקות ומוצצים שמביאים שקט ורוגע להורים ולתינוקות. הצטרפו למשפחה שלנו ולמדו איך הכל התחיל.
 
 הכירו את הלב מאחורי צעצועי התינוקות — Babynodshop
@@ -1405,7 +1405,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## דברו איתנו על צעצועי התינוקות המושלמים — Babynodshop
 
-URL: https://babynodshop-55554606.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלות על צעצועי תינוקות, מוצצים או כל מוצר אחר? צוות Babynodshop כאן כדי לעזור לכם לבחור את הטוב ביותר עבור התינוק שלכם. צרו קשר עוד היום ונחזור אליכם באהבה ובמהירות!
 
 דברו איתנו על צעצועי התינוקות המושלמים — Babynodshop
@@ -1811,7 +1811,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## מוצרים
 
-URL: https://babynodshop-55554606.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Babynodshop
 
 מוצרים - Babynodshop
@@ -2048,7 +2048,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## פרטי המוצר
 
-URL: https://babynodshop-55554606.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Babynodshop
 
 פרטי המוצר - Babynodshop
@@ -2263,7 +2263,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## מוצרים
 
-URL: https://babynodshop-55554606.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Babynodshop
 
 מוצרים - Babynodshop
@@ -2502,7 +2502,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## מדיניות פרטיות
 
-URL: https://babynodshop-55554606.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2783,7 +2783,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## הצהרת נגישות
 
-URL: https://babynodshop-55554606.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3073,7 +3073,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## תנאי שימוש
 
-URL: https://babynodshop-55554606.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3382,7 +3382,7 @@ Babynodshop – המותג שלך לעולם התינוקות. מוצרים אי
 
 ## תודה רבה | Babynodshop
 
-URL: https://babynodshop-55554606.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה ונציג שלנו יחזור אליך בהקדם האפשרי בנוגע לצעצועי תינוקות והמוצרים שלנו.
 
 תודה רבה | Babynodshop

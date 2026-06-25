@@ -1,0 +1,85 @@
+# Babynodshop — Generative Engine Optimization Map
+
+> A business focused on pacifiers and baby products, catering to parents of infants and young children. The brand likely revolves around comfort, safety, and care for babies.
+
+---
+
+## Pages
+
+### בית
+https://babynodshop-55554606.zappy5.app
+העניקו לקטנטנים שלכם עולם של נוחות ושמחה עם צעצועי תינוקות איכותיים מ-Babynodshop. מוצרים מרגיעים, בטוחים ומעוצבים באהבה כדי להרגיע ולשעשע. היכנסו עכשיו ותנו לתינוק שלכם את הטוב ביותר!
+
+### למה לבחור בנו
+https://babynodshop-55554606.zappy5.app/why-choose-us
+למה הורים בוחרים בנו? כי אנחנו מבינים את הצורך האמיתי בבטיחות, נוחות וצעצועי תינוקות שעושים את ההבדל. גלו את המחויבות שלנו לאיכות ולשקט הנפשי שלכם. בואו להכיר את ההבדל!
+
+### אודות
+https://babynodshop-55554606.zappy5.app/about
+סיפור של אהבה, נוחות ומסירות לעולם התינוקות. ב-Babynodshop אנו יוצרים צעצועי תינוקות ומוצצים שמביאים שקט ורוגע להורים ולתינוקות. הצטרפו למשפחה שלנו ולמדו איך הכל התחיל.
+
+### צור קשר
+https://babynodshop-55554606.zappy5.app/contact
+יש שאלות על צעצועי תינוקות, מוצצים או כל מוצר אחר? צוות Babynodshop כאן כדי לעזור לכם לבחור את הטוב ביותר עבור התינוק שלכם. צרו קשר עוד היום ונחזור אליכם באהבה ובמהירות!
+
+### Products
+https://babynodshop-55554606.zappy5.app/products
+המוצרים שלנו - Babynodshop
+
+### Product Detail
+https://babynodshop-55554606.zappy5.app/product/:slug
+פרטי המוצר - Babynodshop
+
+### Category
+https://babynodshop-55554606.zappy5.app/category/:slug
+מוצרים - Babynodshop
+
+### תודה רבה | Babynodshop
+https://babynodshop-55554606.zappy5.app/thank-you
+תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה ונציג שלנו יחזור אליך בהקדם האפשרי בנוגע לצעצועי תינוקות והמוצרים שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://babynodshop-55554606.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://babynodshop-55554606.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://babynodshop-55554606.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Babynodshop
+A business focused on pacifiers and baby products, catering to parents of infants and young children. The brand likely revolves around comfort, safety, and care for babies.
+
+## Target Audience
+- הורים לתינוקות
+- הורים מודעים לבריאות
+- הורים חדשים
+- קניית מוצצים בסוגים שונים
+
+## Industry
+Baby Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://babynodshop-55554606.zappy5.app/sitemap.xml
+- Robots: https://babynodshop-55554606.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://babynodshop-55554606.zappy5.app/llms-full.txt
+- Products (JSON): https://babynodshop-55554606.zappy5.app/products.json
+- Products (Google Merchant RSS): https://babynodshop-55554606.zappy5.app/product-feed.xml
